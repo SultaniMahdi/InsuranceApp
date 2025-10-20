@@ -1,0 +1,14 @@
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/bin/Debug/net8.0/InsuranceApp
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/bin/Debug/net8.0/InsuranceApp.deps.json
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/bin/Debug/net8.0/InsuranceApp.runtimeconfig.json
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/bin/Debug/net8.0/InsuranceApp.dll
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/bin/Debug/net8.0/InsuranceApp.pdb
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/obj/Debug/net8.0/InsuranceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/obj/Debug/net8.0/InsuranceApp.AssemblyInfoInputs.cache
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/obj/Debug/net8.0/InsuranceApp.AssemblyInfo.cs
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/obj/Debug/net8.0/InsuranceApp.csproj.CoreCompileInputs.cache
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/obj/Debug/net8.0/InsuranceApp.dll
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/obj/Debug/net8.0/refint/InsuranceApp.dll
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/obj/Debug/net8.0/InsuranceApp.pdb
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/obj/Debug/net8.0/InsuranceApp.genruntimeconfig.cache
+/home/mahdi-sultani/InsuranceCalculator/InsuranceApp/obj/Debug/net8.0/ref/InsuranceApp.dll
